@@ -165,6 +165,7 @@ while(True):
 
 
     '''
+    
     sumx.append(centerX)
     if len(sumx)>10:
         sumx.pop(0)
